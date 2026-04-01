@@ -35,7 +35,15 @@ The goal of this repository is to provide a structured and easy-to-understand gu
 
 ---
 
-🤝 Contributing
+## How to run?
+
+To Run the file download the content and double click the survival.html file and enjoy the guide!
+
+
+---
+
+
+## 🤝 Contributing
 
 Contributions are welcome!
 If you want to improve this guide:
@@ -46,13 +54,13 @@ Submit a Pull Request
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you found this helpful, consider giving it a star ⭐
 
